@@ -134,7 +134,7 @@ Departure Port: Palermo, Sicily, Italy
 Vessel name: San Giovanni
 Arrival Date to Ellis Island, NY: 23 October 1909
 Americanized name: Lucy (name changes between 1910 and 1920 US Federal Census)
-Profession in 1920: sternographer
+Job in 1920: sternographer
 Marriage date: abt 1923
 Spouse: John Christoforo Jr.
 Name after marrage: Lucy Meli Christoforo
