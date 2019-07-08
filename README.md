@@ -99,7 +99,7 @@ I count 19 of us who could possibly apply. That's including zero from Uncle Bill
 
 ## Key ancestor
 Papa's mother, a.k.a Noni, a.k.a Lucy Meli Christoforo  
-She is the person from which the claim to Italian citizenship stems. All of her descendants originating from her children from before she Naturalized as a US citizen on 11 September 1928 were theoretically born Italian citizens (okay, this is a dubious statement because of [1948](/README.md#1948)), so have we just have to deliver paperwork proving this to the Italian government so that they'll issue us passports which we can then use to invoke our rights as Italian and EU citizens. Here's some relevant info I've learned about her:
+She is the person from which the claim to Italian citizenship stems. All of her descendants originating from her children from before she Naturalized as a US citizen on 11 September 1928 were theoretically born Italian citizens (okay, this is a dubious statement because of [1948](/README.md#1948)), so have we simply have to deliver paperwork proving this to the Italian government so that they'll issue us passports which we can then use to invoke our rights as Italian and EU citizens. Here's some relevant info I've learned about her:
 ```
 Father: Gaetano Meli (1862-
 Mother: Jennie Meli (1870-
