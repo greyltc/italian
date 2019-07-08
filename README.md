@@ -42,10 +42,10 @@ Who's eligible to join the Italian citizenship party? i.e. who of us is actually
 - all descendants of our [Key ancestor](/README.md#Key_ancestor) __except__ those who descended through Auntie Flo (because this line was broken by Noni's naturalization  to become a US citizen)
 - any woman who married a man fitting the above criteria prior to 27 April 1983 [source](https://italiancitizenshipassistance.com/faq/#20)
 
-Further reading [here](http://getitaliancitizenship.com/qualify-for-italian-dual-citizenship/)
-Further reading [here](http://www.youritalianpassport.com/qualifications.html)
-Further reading [here](https://italiancitizenshipassistance.com/jure-sanguinis/)
-Further reading [here](https://italiancitizenshipassistance.com/jure-sanguinis/)
+Further reading [here](http://getitaliancitizenship.com/qualify-for-italian-dual-citizenship/)  
+Further reading [here](http://www.youritalianpassport.com/qualifications.html)  
+Further reading [here](https://italiancitizenshipassistance.com/jure-sanguinis/)  
+Further reading [here](https://italiancitizenshipassistance.com/jure-sanguinis/)  
 
 ## The process
 Here is an outline of the process to obtain an Italian passport as I understand it now:  [source](https://italiancitizenshipassistance.com/faq)
