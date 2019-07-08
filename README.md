@@ -1,5 +1,5 @@
 # italian
-This repo contains my personal notes on obtaining Italian citizenship
+My personal notes on recognizing my jure sanguinis Italian citizenship
 
 ## FAQs
 __Q1__: Will I be drafted into the Italian military?  
