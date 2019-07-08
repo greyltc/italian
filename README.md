@@ -127,7 +127,7 @@ Birth date: 8 December 1901
 Birth place (in Italian): Augusta, Siracusa, Sicilia, Italia
 Birth place (in English): Augusta, Syracuse, Sicily, Italy
 Sister: Carmela, born 31 December, 1893 in Italy
-Brother: George (Giovacchino), born 14 May, 1896 in Italy
+Brother: George (Giovacchino), born 14 May, 1896 in Italy, died 12 July 1986 in Boston
 Sister: Pasqualine, born 28 May, 1898 in Italy
 Brother: Frank, born 3 February, 1900 in Italy, died 21 May 1998
 
@@ -149,7 +149,9 @@ Death place: Melrose, MA, USA
 ```
 Importantly, I haven't been able to find her birth certificate yet.  
 
-## Old documents
+## Some old documents
 Ellis Island vessel manifest for our [Key ancestor](/README.md#Key_ancestor)'s arrival boat: [page 1](/media/NYT715_1359-0908.jpg), [page 2](/media/NYT715_1359-0909.jpg), [page 3](/media/NYT715_1359-0910.jpg), [page 4](/media/NYT715_1359-0911.jpg)  
 Our [Key ancestor](/README.md#Key_ancestor)'s petition for naturalization: [link](/media/m1368_283-001120.jpg)  
 Our [Key ancestor](/README.md#Key_ancestor)'s mother's naturalization papers: [link](/media/007774850_01493.jpg)  
+1910 US Federal Census for Meli household (41 Hall St, Boston, Suffolk, Massachusetts, USA): [link](/media/31111_4330097-00780.jpg)  
+1920 US Federal Census for Meli household (27 Temple Street, Revere, Suffolk, Massachusetts, USA): [link](/media/4311569-00303.jpg)  
