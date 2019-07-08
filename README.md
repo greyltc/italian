@@ -102,18 +102,39 @@ I count 19 of us who could possibly apply. That's including zero from Uncle Bill
 Papa's mother, a.k.a Noni, a.k.a Lucy Meli Christoforo  
 She is the person from which the claim to Italian citizenship stems. All of her descendants originating from her children from before she Naturalized as a US citizen on 11 September 1928 were theoretically born Italian citizens (okay, this is a dubious statement because of [1948](/README.md#1948)), so have we simply have to deliver paperwork proving this to the Italian government so that they'll issue us passports which we can then use to invoke our rights as Italian and EU citizens. Here's some relevant info I've learned about her:
 ```
-Father: Gaetano Meli (1862-
-Mother: Jennie Meli (1870-
+Father's name: Gaetano Meli
+Father's brith date: 16 June 1862
+Father's birth place (in Italian): Siracusa, Sicilia, Italia
+Father's birth place (in English): Syracuse, Sicily, Italy
+Father's job in 1920: Cabinet maker at a piano factory
+
+Mother's Mother: Sebastiani Martelli, born abt 1847
+Mother's name at birth: Giovannina Martelli
+Mother's Americanized name: Jennie
+Mother's birth date: 9 February 1871
+Mother's birth place (in Italian): Augusta, Siracusa, Sicilia, Italia
+Mother's birth place (in English): Augusta, Syracuse, Sicily, Italy
+Parents' marriage date: 28 August 1894
+Parents' marriage location: Syracuse, Sicily, Italy
+
+Mother's naturalization date: 3 February 1943
+Father's naturalization date: probably never (listed as alien in 1920 US Federal Census)
+
 Name at birth: Lucia Meli
 Birth date: 8 December 1901
-Birth place (in Italian): Siracusa, Sicilia, Italia
-Birth place (in English): Syracuse, Sicily, Italy
-Possible alternate birth place: Augusta, Sicily, Italy
+Birth place (in Italian): Augusta, Siracusa, Sicilia, Italia
+Birth place (in English): Augusta, Syracuse, Sicily, Italy
+Sister: Garmela, born 31 December, 1893 in Italy
+Brother: George, born 14 May, 1896 in Italy
+Sister: Pasqualine, born 28 May, 1898 in Italy
+Brother: Frank, born 3 February, 1900 in Italy, died 21 May 1998
+
 Departure date from Italy: 8 October, 1909
 Departure Port: Palermo, Sicily, Italy
 Vessel name: San Giovanni
 Arrival Date to Ellis Island, NY: 23 October 1909
 Americanized name: Lucy (name changes between 1910 and 1920 US Federal Census)
+Profession in 1920: sternographer
 Marriage date: abt 1923
 Spouse: John Christoforo Jr.
 Name after marrage: Lucy Meli Christoforo
