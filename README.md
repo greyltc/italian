@@ -106,6 +106,7 @@ Father's name: Gaetano Meli
 Father's brith date: 16 June 1862
 Father's birth place (in Italian): Siracusa, Sicilia, Italia
 Father's birth place (in English): Syracuse, Sicily, Italy
+Father's job in 1910: Carpenter building houses
 Father's job in 1920: Cabinet maker at a piano factory
 
 Mother's Mother: Sebastiani Martelli, born abt 1847
@@ -114,6 +115,7 @@ Mother's Americanized name: Jennie
 Mother's birth date: 9 February 1871
 Mother's birth place (in Italian): Augusta, Siracusa, Sicilia, Italia
 Mother's birth place (in English): Augusta, Syracuse, Sicily, Italy
+Mother's job in 1910: "Finisher" in the "pants" industry
 Parents' marriage date: 28 August 1894
 Parents' marriage location: Syracuse, Sicily, Italy
 
@@ -124,8 +126,8 @@ Name at birth: Lucia Meli
 Birth date: 8 December 1901
 Birth place (in Italian): Augusta, Siracusa, Sicilia, Italia
 Birth place (in English): Augusta, Syracuse, Sicily, Italy
-Sister: Garmela, born 31 December, 1893 in Italy
-Brother: George, born 14 May, 1896 in Italy
+Sister: Carmela, born 31 December, 1893 in Italy
+Brother: George (Giovacchino), born 14 May, 1896 in Italy
 Sister: Pasqualine, born 28 May, 1898 in Italy
 Brother: Frank, born 3 February, 1900 in Italy, died 21 May 1998
 
