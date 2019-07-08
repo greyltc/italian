@@ -23,7 +23,7 @@ __A6__:  Italian citizens who reside outside of Italy for more than 12 months, a
 
 __Q7__: What are the benefits of having Italian/EU citizenship?  
 __A7__: Comprehensive, affordable health care, excellent and affordable university-level education (throughout Europe) [source](http://www.youritalianpassport.com/)  
-__A7__: Pass Italian citizenship to your descendants [source](http://www.youritalianpassport.com/)  
+__A7__: Pass Italian citizenship to your offspring (and of course allow them to pass it on to their offspring as well) [source](http://www.youritalianpassport.com/)  
 __A7__: You will be able to transfer Italian citizenship to all children under 18 years old automatically [source](https://italiancitizenshipassistance.com/benefits-of-italian-dual-citizenship/)  
 __A7__: Reside, retire, and travel freely within any of the 27 countries of the European Union [source](http://www.youritalianpassport.com/)  
 __A7__: [Further reading](https://italiancitizenshipassistance.com/benefits-of-italian-dual-citizenship/), [further reading](http://getitaliancitizenship.com/why-get-italian-dual-citizenship/), [further reading](http://www.youritalianpassport.com/)
@@ -83,7 +83,7 @@ Recently a trial case challenged the above situations as discriminatory and unju
 Further reading [here](http://getitaliancitizenship.com/italian-dual-citizenship-what-is-a-1948-case/)
 
 ## Cost
-Everything is in Euros here.
+Everything is in Euros here (except where you see $).
 
 €6,500 - hiring the law firm to win the 1948 court case (in Rome) and to provide complete "citizenship packets" for three immediate fmaily members  
 €200 for each additional immediate family member's complete "citizenship packets"  
