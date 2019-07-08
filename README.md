@@ -75,7 +75,7 @@ Here are some links to sites advertizing  help in obtaining Italian citizenship 
 1) https://www.italymondo.com <-- seems like the most expensive, but seems to offer many "above and beyond" perks
 
 ## 1948
-Watch this two minute youtube video: https://youtu.be/3qUm5CujE2w  
+Watch this [two minute youtube video](https://youtu.be/3qUm5CujE2w)  
 
 Prior to 1948, under Italian Law only men were able to transfer Italian citizenship to their children, whereas women were discriminated against doing so.  
 It was only after the promulgation of the 1948 Italian constitution, which stated that men and women have equal rights, that Italian women were considered by Italian Law to be able to transfer their Italian citizenship onto their children, however, only to those born after January 1st 1948.  
