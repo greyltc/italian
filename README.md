@@ -28,14 +28,14 @@ __A7__: You will be able to transfer Italian citizenship to all children under 1
 __A7__: Reside, retire, and travel freely within any of the 27 countries of the European Union [source](http://www.youritalianpassport.com/)  
 __A7__: [Further reading](https://italiancitizenshipassistance.com/benefits-of-italian-dual-citizenship/), [further reading](http://getitaliancitizenship.com/why-get-italian-dual-citizenship/), [further reading](http://www.youritalianpassport.com/)
 
-__Q7__: Who is eligible to join this Italian citizenship party?  
-__A7__: See [Eligibility](/README.md#Eligibility)  
+__Q8__: Who is eligible to join this Italian citizenship party?  
+__A8__: See [Eligibility](/README.md#Eligibility)  
 
-__Q8__: What about the spouses of people who do not meet the requirements in the [Eligibility](/README.md#Eligibility) section?  
-__A8__: Foreign women who married Italian men prior to 27 April 1983, automatically acquired Italian citizenship, and therefore are entitled to apply simultaneously for recognition. Additionally, it seems that ALL spouses are also eligible for citizenship after registering the marriage in Italy. [source](https://italiancitizenshipassistance.com/faq/#20) But maybe they must learn Italian? [source](https://italiancitizenshipassistance.com/faq/#63) In any case, the foreign spouse of an EU citizen living in Europe can certainly live indefinately with them and work freely in that country.
+__Q9__: What about the spouses of people who do not meet the requirements in the [Eligibility](/README.md#Eligibility) section?  
+__A9__: Foreign women who married Italian men prior to 27 April 1983, automatically acquired Italian citizenship, and therefore are entitled to apply simultaneously for recognition. Additionally, it seems that ALL spouses are also eligible for citizenship after registering the marriage in Italy. [source](https://italiancitizenshipassistance.com/faq/#20) But maybe they must learn Italian? [source](https://italiancitizenshipassistance.com/faq/#63) In any case, the foreign spouse of an EU citizen living in Europe can certainly live indefinately with them and work freely in that country.
 
-__Q9__: Do I have to know/learn the Italian language?  
-__A9__: No. Except potentially for the spouses who married in after 27 April 1983 (see above question) who wish to become Italian citizens through marriage (which is a separate application).  
+__Q10__: Do I have to know/learn the Italian language?  
+__A10__: No. Except potentially for the spouses who married in after 27 April 1983 (see above question) who wish to become Italian citizens through marriage (which is via a separate application).  
 
 ## Eligibility
 Who's eligible to join the Italian citizenship party? i.e. who of us is actually an Italian citizen now, but just doesn't have the paperwork (e.g. passport) to prove it?
