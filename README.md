@@ -48,9 +48,10 @@ Further reading [here](https://italiancitizenshipassistance.com/jure-sanguinis/)
 Further reading [here](https://italiancitizenshipassistance.com/jure-sanguinis/)  
 
 ## The process
-Here is an outline of the process to obtain an Italian passport as I understand it now:  [source](https://italiancitizenshipassistance.com/faq)
+Here is an outline of the process to obtain an Italian passport as I understand it now:  [source](https://italiancitizenshipassistance.com/faq)  
 
-_Preface_ -- Since our [Key ancestor](/README.md#Key_ancestor) passed on __her__ citizenship before [1948](/README.md#1948), we must win a court case in Italy before it makes any sense to submit our applications for recognition of our Italian citizenships to the Italian consulates where we live. 
+_Preface_ -- Since our [Key ancestor](/README.md#Key_ancestor) passed on __her__ citizenship before [1948](/README.md#1948), we must win a court case in Italy before it makes any sense to submit our applications for recognition of our Italian citizenships to the Italian consulates where we live.  
+
 1) Hire an Italian law firm to file a lawsuit through the Civil Court in Rome to challenge the [1948](/README.md#1948) rule -- __0 Days__
 1) Law firm does a bunch of stuff for us, including --__1.5-2 years__
     - collection of all required documentation proving our Italian citizenship.
