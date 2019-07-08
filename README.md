@@ -50,19 +50,21 @@ Further reading [here](https://italiancitizenshipassistance.com/jure-sanguinis/)
 ## The process
 Here is an outline of the process to obtain an Italian passport as I understand it now:  [source](https://italiancitizenshipassistance.com/faq)
 
-_Preface_ -- Since our [Key ancestor](/README.md#Key_ancestor) passed on __her__ citizenship before [1948](/README.md#1948), we must win a court case in Italy before it makes any sense to submit our applications for Italian passports/citizenship to the Italian consulates where we live. 
+_Preface_ -- Since our [Key ancestor](/README.md#Key_ancestor) passed on __her__ citizenship before [1948](/README.md#1948), we must win a court case in Italy before it makes any sense to submit our applications for recognition of our Italian citizenships to the Italian consulates where we live. 
 1) Hire an Italian law firm to file a lawsuit through the Civil Court in Rome to challenge the [1948](/README.md#1948) rule -- __0 Days__
 1) Law firm does a bunch of stuff for us, including --__1.5-2 years__
     - collection of all required documentation proving our Italian citizenship.
     - translation of said documentation into Italian.
     - authentication of said documentation by Apostilles.
-    - taking the Italian govt. to civil court in Rome to argue on our behalf to argue that we're Italian citizens.
+    - taking the Italian govt. to civil court in Rome to argue on our behalf that we're Italian citizens.
     - winning said lawsuit.
 1) Law firm delivers each of us a "citizenship packet" -- __0 Days__
 1) Each of us goes to our local Italian consulate, pays them 300 EUR and signs up for an appointment to apply for our Italian citizenship to be recognized by Italy. -- __0 Days__
 1) Wait for appointment at the Italian consulate -- __3-12 Months__ [source](https://italiancitizenshipassistance.com/faq/#15)
-1) Attend appointment with the Italian consulate and deliver them our "citizenship packet" of documentation. -- __0 Days__
+1) Attend appointment with the Italian consulate and deliver them our "citizenship packet" of documentation to them. -- __0 Days__
 1) Wait for the Italian consulate to process our application -- __2-6 Months__ [source](https://italiancitizenshipassistance.com/faq/#15)  
+1) Receive Italian passport in the mail -- __0 Days__
+1) Profit -- __forever more__
 
 ## Professional services
 Here are some links to sites advertizing  help in obtaining Italian citizenship (in no order). These sites contain TONS of extra info. Many questions I haven't addressed here are answered in one or several of these.
@@ -89,9 +91,9 @@ Everything is in Euros here.
 children (under 18) of anyone here seem to be automatically included for free
 
 "immediate fmaily member":  siblings, parents or adult children  
-"citizenship packet": all the documentation an Italian consulate needs to issue us a passport  
+"citizenship packet": all the documentation an Italian consulate needs to recognize our citizenship and issue us a passport  
 
-The above is payable to the Italian/American law firm and will be returned if our applications fail. The Italian consulate takes €300 for each application which is non-refundable and I think children (under 18) are included on their parents applications here so I won't count them as needing to apply.
+The above is payable to the Italian/American law firm and will be returned if our applications fail. The Italian consulate takes €300 for each application which is non-refundable. I think children (under 18) are included on their parents applications here so I won't count them as needing to apply.
 
 I count 19 of us who could possibly apply. That's including zero from Uncle Bill's side. If everyone was in, the total cost of the law firm would be €6,500 + 6x€200 + 10x€300 = €10,700. And if we were to split that equally, we'd each owe €563.16. And after the application fee to our Italian consulates, that would come to €863.16 ~= $969.00 each. If 17 of the 19 of us go in, we'd be at $1,010.38 each. If only three of us are in, that would come to $2,769.67 each.
 
