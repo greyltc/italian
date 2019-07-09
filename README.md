@@ -155,11 +155,14 @@ Importantly, I haven't been able to find her birth certificate yet.
 
 ## Documents I need
 - Lucia Meli's Italian birth and/or christening certificate. Location: Hopefully Augusta, Sicily, Italy
-- Lucia Meli's death certificate. Location: [150 Mt Vernon St, Dorchester, MA 02125, USA](https://goo.gl/maps/ndzrqTSvGG3H3Mww7). Website: [link](https://www.mass.gov/orgs/registry-of-vital-records-and-statistics)
-- Lucy Meli Christoforo and John Jr.'s marriage certificate. Location: [220 Morrissey Blvd, Boston, MA 02125, USA](https://goo.gl/maps/qMFWnhYX6arBT3BE9). Website: [link](http://www.sec.state.ma.us/arc/archrs/hrsidx.htm)
-- John A. Christoforo's birth certificate. Location: [220 Morrissey Blvd, Boston, MA 02125, USA](https://goo.gl/maps/qMFWnhYX6arBT3BE9). Website: [link](http://www.sec.state.ma.us/arc/archrs/hrsidx.htm)
-- John A. and Ruth Christoforo's marriage certificate. Location: [150 Mt Vernon St, Dorchester, MA 02125, USA](https://goo.gl/maps/ndzrqTSvGG3H3Mww7). Website: [link](https://www.mass.gov/orgs/registry-of-vital-records-and-statistics)
-- John A. Christoforo's death certificate. Location: [150 Mt Vernon St, Dorchester, MA 02125, USA](https://goo.gl/maps/ndzrqTSvGG3H3Mww7). Website: [link](https://www.mass.gov/orgs/registry-of-vital-records-and-statistics)
+- Lucia Meli's death certificate in The Registry of Vital Records and Statistics [2]
+- Lucy Meli Christoforo and John Jr.'s marriage certificate in The Massachusetts Archives [1]
+- John A. Christoforo's birth certificate in in The Massachusetts Archives [1]
+- John A. and Ruth Christoforo's marriage certificate in The Registry of Vital Records and Statistics [2]
+- John A. Christoforo's death certificate in The Registry of Vital Records and Statistics [2]
+
+[1] Old Mass records are at The Massachusetts Archives. Location: [220 Morrissey Blvd, Boston, MA 02125, USA](https://goo.gl/maps/qMFWnhYX6arBT3BE9). Website: [link](http://www.sec.state.ma.us/arc/archrs/hrsidx.htm)  
+[2] New Mass records are at The Registry of Vital Records and Statistics. Location: [150 Mt Vernon St, Dorchester, MA 02125, USA](https://goo.gl/maps/ndzrqTSvGG3H3Mww7). Website: [link](https://www.mass.gov/orgs/registry-of-vital-records-and-statistics)  
 
 ## Some old documents
 Ellis Island vessel manifest for our [Key ancestor](/README.md#Key_ancestor)'s (second?) arrival boat: [page 1](/media/NYT715_1359-0908.jpg), [page 2](/media/NYT715_1359-0909.jpg), [page 3](/media/NYT715_1359-0910.jpg), [page 4](/media/NYT715_1359-0911.jpg)  
