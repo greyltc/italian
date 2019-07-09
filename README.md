@@ -109,7 +109,7 @@ Father's birth place (in English): Syracuse, Sicily, Italy
 Father's job in 1910: Carpenter building houses
 Father's job in 1920: Cabinet maker at a piano factory
 
-Mother's Mother: Sebastiani Martelli, born abt 1847
+Mother's Mother: Sebastiani (Sebastiana) Martelli, born abt 1847
 Mother's name at birth: Giovannina Martelli
 Mother's Americanized name: Jennie
 Mother's birth date: 9 February 1871
@@ -128,8 +128,8 @@ Birth place (in Italian): Augusta, Siracusa, Sicilia, Italia
 Birth place (in English): Augusta, Syracuse, Sicily, Italy
 Sister: Carmela, born 31 December, 1893 in Italy
 Brother: George (Giovacchino), born 14 May, 1896 in Italy, died 12 July 1986 in Boston
-Sister: Pasqualine, born 28 May, 1898 in Italy
-Brother: Frank, born 3 February, 1900 in Italy, died 21 May 1998
+Sister: Pasqualine (Pasquala), born 28 May, 1898 in Italy
+Brother: Francisco (Frank), born 3 February, 1900 in Italy, died 21 May 1998
 
 Departure date from Italy: 8 October, 1909
 Departure Port: Palermo, Sicily, Italy
