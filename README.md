@@ -140,7 +140,7 @@ Vessel name: San Giovanni
 Arrival Date to Ellis Island, NY: 23 October 1909
 Americanized name: Lucy (name changes between 1910 and 1920 US Federal Census)
 Job in 1920: sternographer in an office
-Marriage date: abt 1923
+Marriage date: 25 October 1923
 Spouse: John Christoforo Jr.
 Name after marrage: Lucy Meli Christoforo
 Birth of son: John A. Christoforo, 3 October 1924
