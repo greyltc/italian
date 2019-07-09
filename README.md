@@ -1,5 +1,5 @@
 # italian
-My personal notes on recognizing my jure sanguinis Italian citizenship
+My personal notes on recognizing my jure sanguinis Italian citizenship [source](https://github.com/greyltc/italian)
 
 ## FAQs
 __Q1__: Will I be drafted into the Italian military?  
