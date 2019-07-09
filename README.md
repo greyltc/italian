@@ -47,8 +47,7 @@ Who's eligible to join the Italian citizenship party? i.e. who of us is actually
 
 Further reading [here](http://getitaliancitizenship.com/qualify-for-italian-dual-citizenship/)  
 Further reading [here](http://www.youritalianpassport.com/qualifications.html)  
-Further reading [here](https://italiancitizenshipassistance.com/jure-sanguinis/)  
-Further reading [here](https://italiancitizenshipassistance.com/jure-sanguinis/)  
+Further reading [here](https://italiancitizenshipassistance.com/jure-sanguinis/)    
 
 ## The process
 Here is an outline of the process to obtain an Italian passport as I understand it now:  [source](https://italiancitizenshipassistance.com/faq)  
