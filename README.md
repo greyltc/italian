@@ -37,6 +37,9 @@ __A9__: Foreign women who married Italian men prior to 27 April 1983, automatica
 __Q10__: Do I have to know/learn the Italian language?  
 __A10__: No. Except potentially for the spouses who married in after 27 April 1983 (see above question) who wish to become Italian citizens through marriage (which is via a separate application).  
 
+__Q11__: Do we all have to be in Italy for any part of this process?  
+__A11__: No. None of us have to set foot in Italy for any of this. The rule actually is that you have to submit your paperwork to the Italian consulate where you live. HOWEVER, one approach I've read about that many people take is they do an extended "visit" to Italy (on say their US passport), and register with a commune as living there. Then they submit their paperwork to a local office and they get their citizenship recognized SUPER quickly. It's like the fast track method to skip the (possibly very long) waiting and processing times that the foreign Italian consulates have. [source](http://getitaliancitizenship.com/italian-dual-citizenship-applying-in-italy-vs-at-the-consulate/) and [source](https://www.italymondo.com/services/citizenship/skipconsulate/)  
+
 ## Eligibility
 Who's eligible to join the Italian citizenship party? i.e. who of us is actually an Italian citizen now, but just doesn't have the paperwork (e.g. passport) to prove it?
 - all descendants of our [Key ancestor](/README.md#Key_ancestor) __except__ those who descended through Auntie Flo (because this line was broken by Noni's naturalization  to become a US citizen)
@@ -123,11 +126,11 @@ Mother's naturalization date: 3 February 1943
 Father's naturalization date: probably never (listed as alien in 1920 US Federal Census)
 
 Name at birth: Lucia Meli
-Birth date: 8 December 1901
+Birth date: 8 December 1901 (This date is now under suspicion. I've seen evidence for 1905-1907.)
 Birth place (in Italian): Augusta, Siracusa, Sicilia, Italia
 Birth place (in English): Augusta, Syracuse, Sicily, Italy
 Sister: Carmela, born 31 December, 1893 in Italy
-Brother: George (Giovacchino), born 14 May, 1896 in Italy, died 12 July 1986 in Boston
+Brother: Giovacchino (George), born 14 May, 1896 in Italy, died 12 July 1986 in Boston
 Sister: Pasqualine (Pasquala), born 28 May, 1898 in Italy
 Brother: Francisco (Frank), born 3 February, 1900 in Italy, died 21 May 1998
 
