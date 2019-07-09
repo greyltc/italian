@@ -52,27 +52,27 @@ Here is an outline of the process to obtain an Italian passport as I understand 
 
 _Preface_ -- Since our [Key ancestor](/README.md#Key_ancestor) passed on __her__ citizenship before [1948](/README.md#1948), we must win a court case in Italy before it makes any sense to submit our applications for recognition of our Italian citizenships to the Italian consulates where we live.  
 
-1) Hire an Italian law firm to file a lawsuit through the Civil Court in Rome to challenge the [1948](/README.md#1948) rule -- __0 Days__
-1) Law firm does a bunch of stuff for us, including -- __1.5-2 years__
+1. Hire an Italian law firm to file a lawsuit through the Civil Court in Rome to challenge the [1948](/README.md#1948) rule -- __0 Days__
+1. Law firm does a bunch of stuff for us, including -- __1.5-2 years__
     - collection of all required documentation proving our Italian citizenship
     - translation of said documentation into Italian
     - authentication of said documentation by Apostilles
     - taking the Italian govt. to civil court in Rome to argue on our behalf that we're Italian citizens
     - winning said lawsuit
-1) Law firm delivers each of us a "citizenship packet" -- __0 Days__
-1) Each of us goes to our local Italian consulate, pays them 300 EUR and signs up for an appointment to apply for our Italian citizenship to be recognized by Italy -- __0 Days__
-1) Wait for appointment at the Italian consulate -- __3-12 Months__ [source](https://italiancitizenshipassistance.com/faq/#15)
-1) Attend appointment with the Italian consulate and deliver them our "citizenship packet" of documentation to them -- __0 Days__
-1) Wait for the Italian consulate to process our application -- __2-6 Months__ [source](https://italiancitizenshipassistance.com/faq/#15)  
-1) Receive Italian passport in the mail -- __0 Days__
-1) Profit -- __forever more__
+1. Law firm delivers each of us a "citizenship packet" -- __0 Days__
+1. Each of us goes to our local Italian consulate, pays them 300 EUR and signs up for an appointment to apply for our Italian citizenship to be recognized by Italy -- __0 Days__
+1. Wait for appointment at the Italian consulate -- __3-12 Months__ [source](https://italiancitizenshipassistance.com/faq/#15)
+1. Attend appointment with the Italian consulate and deliver them our "citizenship packet" of documentation to them -- __0 Days__
+1. Wait for the Italian consulate to process our application -- __2-6 Months__ [source](https://italiancitizenshipassistance.com/faq/#15)  
+1. Receive Italian passport in the mail -- __0 Days__
+1. Profit -- __forever more__
 
 ## Professional services
 Here are some links to sites advertizing  help in obtaining Italian citizenship (in no order). These sites contain TONS of extra info. Many questions I haven't addressed here are answered in one or several of these.
-1) https://italiancitizenshipassistance.com <-- I'm dealing with them currently
-1) http://www.youritalianpassport.com
-1) http://getitaliancitizenship.com
-1) https://www.italymondo.com <-- seems like the most expensive, but seems to offer many "above and beyond" perks
+1. https://italiancitizenshipassistance.com <-- I'm dealing with them currently
+1. http://www.youritalianpassport.com
+1. http://getitaliancitizenship.com
+1. https://www.italymondo.com <-- seems like the most expensive, but seems to offer many "above and beyond" perks
 
 ## 1948
 Watch this [two minute youtube video](https://youtu.be/3qUm5CujE2w)  
