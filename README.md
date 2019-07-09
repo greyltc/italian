@@ -154,7 +154,7 @@ Death place: Melrose, MA, USA
 Importantly, I haven't been able to find her birth certificate yet.  
 
 ## Some old documents
-Ellis Island vessel manifest for our [Key ancestor](/README.md#Key_ancestor)'s arrival boat: [page 1](/media/NYT715_1359-0908.jpg), [page 2](/media/NYT715_1359-0909.jpg), [page 3](/media/NYT715_1359-0910.jpg), [page 4](/media/NYT715_1359-0911.jpg)  
+Ellis Island vessel manifest for our [Key ancestor](/README.md#Key_ancestor)'s (second?) arrival boat: [page 1](/media/NYT715_1359-0908.jpg), [page 2](/media/NYT715_1359-0909.jpg), [page 3](/media/NYT715_1359-0910.jpg), [page 4](/media/NYT715_1359-0911.jpg)  
 Our [Key ancestor](/README.md#Key_ancestor)'s petition for naturalization: [link](/media/m1368_283-001120.jpg)  
 Our [Key ancestor](/README.md#Key_ancestor)'s mother's naturalization papers: [link](/media/007774850_01493.jpg)  
 1910 US Federal Census for Meli household (41 Hall St, Boston, Suffolk, Massachusetts, USA): [link](/media/31111_4330097-00780.jpg)  
