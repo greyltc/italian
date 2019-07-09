@@ -101,7 +101,9 @@ The above is payable to the Italian/American law firm and will be returned if ou
 I count 19 of us who could possibly apply. That's including zero from Uncle Bill's side. If everyone was in, the total cost of the law firm would be €6,500 + 6x€200 + 10x€300 = €10,700. And if we were to split that equally, we'd each owe €563.16. And after the application fee to our Italian consulates, that would come to €863.16 ~= $969.00 each. If 17 of the 19 of us go in, we'd be at $1,010.38 each. If only three of us are in, that would come to $2,769.67 each.
 
 ## Key ancestor
+![lucy](/media/lucy_zoom.jpeg)  
 _Papa's mother a.k.a Noni a.k.a. Lucia Meli a.k.a. Lucy Meli Christoforo_   
+
 She is the person from which the claim to Italian citizenship stems. All of her descendants originating from her children from before she Naturalized as a US citizen on 11 September 1928 were theoretically born Italian citizens (okay, this is a dubious statement because of [1948](/README.md#1948)), so have we simply have to deliver paperwork proving this to the Italian government so that they'll issue us passports which we can then use to invoke our rights as Italian and EU citizens. Here's some relevant info I've learned about her:
 ```
 Father's name: Gaetano Meli
@@ -138,7 +140,7 @@ Departure Port: Palermo, Sicily, Italy
 Vessel name: San Giovanni
 Arrival Date to Ellis Island, NY: 23 October 1909
 Americanized name: Lucy (name changes between 1910 and 1920 US Federal Census)
-Job in 1920: sternographer in an office
+Job in 1920: sternographer in Charles Ponzi's office
 Marriage date: 25 October 1923
 Spouse: John Christoforo Jr.
 Name after marrage: Lucy Meli Christoforo
