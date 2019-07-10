@@ -88,12 +88,12 @@ Further reading [here](http://getitaliancitizenship.com/italian-dual-citizenship
 ## Cost
 Everything is in Euros here (except where you see $).
 
-€6,500 - hiring the law firm to win the 1948 court case (in Rome) and to provide complete "citizenship packets" for three immediate fmaily members  
+€6,500 - hiring the law firm to win the [1948](/README.md#1948) court case (in Rome) and to provide complete "citizenship packets" for three immediate fmaily members  
 €200 for each additional immediate family member's complete "citizenship packets"  
 €300 for each additional non-immediate family member's complete "citizenship packets"  
 children (under 18) of anyone here seem to be automatically included for free
 
-"immediate fmaily member":  siblings, parents or adult children  
+"immediate fmaily member":  siblings, parents or adult children (of the person the law firm is dealing with)  
 "citizenship packet": all the documentation an Italian consulate needs to recognize our citizenship and issue us a passport  
 
 The above is payable to the Italian/American law firm and will be returned if our applications fail. The Italian consulate takes €300 for each application which is non-refundable. I think children (under 18) are included on their parents applications here so I won't count them as needing to apply.
