@@ -164,6 +164,10 @@ Importantly, I haven't been able to find her birth certificate yet.
 [1] Old Mass records are at The Massachusetts Archives. Location: [220 Morrissey Blvd, Boston, MA 02125, USA](https://goo.gl/maps/qMFWnhYX6arBT3BE9). Website: [link](http://www.sec.state.ma.us/arc/archrs/hrsidx.htm)  
 [2] New Mass records are at The Registry of Vital Records and Statistics. Location: [150 Mt Vernon St, Dorchester, MA 02125, USA](https://goo.gl/maps/ndzrqTSvGG3H3Mww7). Website: [link](https://www.mass.gov/orgs/registry-of-vital-records-and-statistics)  
 
+## Documents YOU'LL need to provide
+- Your birth certificate
+- Your marriage certificate (if you have one)
+
 ## Some old documents
 Ellis Island vessel manifest for our [Key ancestor](/README.md#Key_ancestor)'s (second?) arrival boat: [page 1](/media/NYT715_1359-0908.jpg), [page 2](/media/NYT715_1359-0909.jpg), [page 3](/media/NYT715_1359-0910.jpg), [page 4](/media/NYT715_1359-0911.jpg)  
 Ellis Island vessel manifest for her mom and eldest bro and sis: [page 1](/media/NYT715_1027-0853.jpg), [page 2](/media/NYT715_1027-0854.jpg), [page 3](/media/NYT715_1027-0856.jpg), [page 4](/media/NYT715_1027-0857.jpg)  
