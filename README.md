@@ -169,7 +169,7 @@ Importantly, I haven't been able to find her birth certificate yet.
 - Your marriage certificate (if you have one)
 
 ## Some old documents
-Our [Key ancestor](/README.md#Key_ancestor)'s birth certificate: [link](/media/birth_lucia_meli.jpg)
+Our [Key ancestor](/README.md#Key_ancestor)'s birth certificate: [link](/media/birth_lucia_meli.jpg)  
 Ellis Island vessel manifest for our [Key ancestor](/README.md#Key_ancestor)'s (second?) arrival boat: [page 1](/media/NYT715_1359-0908.jpg), [page 2](/media/NYT715_1359-0909.jpg), [page 3](/media/NYT715_1359-0910.jpg), [page 4](/media/NYT715_1359-0911.jpg)  
 Ellis Island vessel manifest for her mom and eldest bro and sis: [page 1](/media/NYT715_1027-0853.jpg), [page 2](/media/NYT715_1027-0854.jpg), [page 3](/media/NYT715_1027-0856.jpg), [page 4](/media/NYT715_1027-0857.jpg)  
 Ellis Island vessel manifest for her dad: [page 1](/media/NYT715_928-0149.jpg), [page 2](/media/NYT715_928-0150.jpg)  
