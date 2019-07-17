@@ -127,9 +127,9 @@ Mother's naturalization date: 3 February 1943
 Father's naturalization date: probably never (listed as alien in 1920 US Federal Census)
 
 Name at birth: Lucia Meli
-Birth date: 8 December 1901 (This date is now under suspicion. I've seen evidence for 1905-1907.)
-Birth place (in Italian): Augusta, Siracusa, Sicilia, Italia
-Birth place (in English): Augusta, Syracuse, Sicily, Italy
+Birth date: 8 December 1901
+Birth place (in Italian): Siracusa, Sicilia, Italia
+Birth place (in English): Syracuse, Sicily, Italy
 Sister: Carmela, born 31 December, 1893 in Italy
 Brother: Giovacchino (George), born 14 May, 1896 in Italy, died 12 July 1986 in Boston
 Sister: Pasqualine (Pasquala), born 28 May, 1898 in Italy
@@ -151,11 +151,9 @@ Birth of Daughter: Florence L Christoforo, abt 1932
 Death: 12 October 1995
 Death place: Melrose, MA, USA
 ```
-Importantly, I haven't been able to find her birth certificate yet.
 
 ## Documents I need
-- Lucia Meli's Italian birth and/or christening certificate. Location: Hopefully Augusta, Sicily, Italy
-- Lucia Meli's death certificate in The Registry of Vital Records and Statistics [2]
+- Lucy Meli's death certificate in The Registry of Vital Records and Statistics [2]
 - Lucy Meli Christoforo and John Jr.'s marriage certificate in The Massachusetts Archives [1]
 - John A. Christoforo's birth certificate in in The Massachusetts Archives [1]
 - John A. and Ruth Christoforo's marriage certificate in The Registry of Vital Records and Statistics [2]
