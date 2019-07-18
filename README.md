@@ -77,7 +77,7 @@ Here are some links to sites advertizing  help in obtaining Italian citizenship 
 1. [https://italiancitizenshipassistance.com](https://italiancitizenshipassistance.com) <-- I'm dealing with them currently
 1. [http://www.youritalianpassport.com](http://www.youritalianpassport.com)
 1. [http://getitaliancitizenship.com](http://www.youritalianpassport.com)
-1. [www.italiandualcitizenship.net](www.italiandualcitizenship.net)
+1. [https://www.italiandualcitizenship.net](https://www.italiandualcitizenship.net)
 1. [https://www.italymondo.com](https://www.italymondo.com) <-- seems like the most expensive, but seems to offer many "above and beyond" perks
 
 ## 1948
