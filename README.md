@@ -159,7 +159,7 @@ Death: 12 October 1995
 Death place: Melrose, MA, USA
 ```
 
-## Documents I need
+## Documents for the whole group
 - Lucy Meli's death certificate in The Registry of Vital Records and Statistics [2]
 - Lucy Meli Christoforo and John Jr.'s marriage certificate in The Massachusetts Archives [1]
 - John A. Christoforo's birth certificate in in The Massachusetts Archives [1]
@@ -169,7 +169,7 @@ Death place: Melrose, MA, USA
 [1] Old Mass records are at The Massachusetts Archives. Location: [220 Morrissey Blvd, Boston, MA 02125, USA](https://goo.gl/maps/qMFWnhYX6arBT3BE9). Website: [link](http://www.sec.state.ma.us/arc/archrs/hrsidx.htm)  
 [2] New Mass records are at The Registry of Vital Records and Statistics. Location: [150 Mt Vernon St, Dorchester, MA 02125, USA](https://goo.gl/maps/ndzrqTSvGG3H3Mww7). Website: [link](https://www.mass.gov/orgs/registry-of-vital-records-and-statistics)  
 
-## Documents YOU'LL need to provide
+## Documents per applicant
 - Your birth certificate
 - Your marriage certificate (if you have one)
 
