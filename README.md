@@ -95,8 +95,8 @@ Everything is in Euros here (except where you see $). Here are the components of
 A) €6,500 - hiring the law firm to win the [1948](/README.md#1948) court case (in Rome) and to provide complete "citizenship packets" for three immediate fmaily members  
 B) €200 - the law firm to produce one additional immediate family member's complete "citizenship packet"  
 C) €300 - the law firm to produce one additional non-immediate family member's complete "citizenship packet"  
-  children (under 18) of anyone here seem to be automatically included for free  
-D) €1,686 - variable costs charged by the law firm, they've told me it is very unlilkely to be more than this
+    children (under 18) of anyone here seem to be automatically included for free  
+D) €1,686 - variable costs charged by the law firm, they've told me it is very unlilkely to be more than this  
 E) €300 - the fee for submitting one's "citizenship packet" to their local Italian consulate, this gets you a document that proves your italian citizenship  
 F) $150 the cost of an Italian passport
 
