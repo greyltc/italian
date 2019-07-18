@@ -2,6 +2,7 @@
 My personal notes on recognizing my jure sanguinis Italian citizenship [source](https://github.com/greyltc/italian)
 
 ## FAQs
+I encourage you to visit [this site](https://italiancitizenshipassistance.com/faq) which has many more FAQs than I have listed here.  
 __Q1__: Will I be drafted into the Italian military?  
 __A1__: Since 1995, the Italian military has been a strictly volunteer service. Should that change however, you will not be exempt from mandatory service if you otherwise meet the requirements. [source](http://www.youritalianpassport.com/consular-experience.html)  
 
@@ -13,7 +14,7 @@ __A3__: You will not have to relinquish your U.S. citizenship in having your Ita
 __A3__: Most Western countries allow their citizens to acquire dual (or multiple) citizenship(s). In some cases, people employed in critical areas of the government (where a person may come across state secrets) are prevented from getting dual citizenship. If you are concerned that obtaining dual citizenship may affect your current citizenship you should contact the local authorities for your country; in any case, according to the principle of jure sanguinis, you have actually been an Italian citizen since birth (if you qualify). Obtaining dual citizenship through ancestry is much different from obtaining it through naturalization, which in many cases can result in the loss of your native citizenship. [source](https://italiancitizenshipassistance.com/faq/#5)  
 
 __Q4__: How much will this cost?  
-__A4__: At the very, very least, about $1000 per person. I think anyone under 18 will ride for free on their parent's application. The answer will highly depend on how many descendants of our [Key ancestor](/README.md#Key_ancestor) decide to join the party. I'm quite sure there's a ton of stuff I haven't considered yet here, so that's a bare minimum. I'm still working on this. I'm currently in conversation with the folks at italiancitizenshipassistance.com to refine the initial cost estimate they've given me. The major cost will be from hiring a law firm to take the Italian government to court (in Italy) on our behalf. See the [1948](/README.md#1948) section below for why we need to do this. Note that italiancitizenshipassistance.com (the site of the firm I'm looking at hiring to do the legal and paperwork on our behalf) has a "100% MONEY BACK" guarantee. That ends up meaning we'd be refunded about 2/3 of the $1000 if for whatever reason the Italian consulate rejects our application(s). You can read more details in the [cost](/README.md#Cost) section below.
+__A4__: About $1200 per person. You can read more details in the [cost](/README.md#Cost) section below. This is only for those over 18 with Noni blood. The answer will highly depend on how many descendants of our [Key ancestor](/README.md#Key_ancestor) decide to join the party. Anyone under 18 will ride for free on their parent's application. Women who married into the family prior to 1983 will also be included for free with their husband's application. This estimate is based on a quotation from the the Italian/American law firm behind italiancitizenshipassistance.com. The major cost will be from hiring a law firm to take the Italian government to court (in Italy) on our behalf (see the [1948](/README.md#1948) section below for why we need to do this). Note that italiancitizenshipassistance.com has a "100% MONEY BACK" guarantee. That ends up meaning we'd be refunded about 2/3 of the $1000 if for whatever reason the Italian consulate rejects our application(s). 
 
 __Q5__: How long will this take?  
 __A5__: Longer than 24 months (potentially much longer). I understand that we could be ready to submit our documentation packages to the Italian consulates that serve our places of residence 1.5 - 2 years after we "start the process." Then, "the wait lists at many of the consulates exceed 18 months." [source](http://www.youritalianpassport.com/consular-experience.html) See [The process](/README.md#The_process) for more details.  
@@ -42,7 +43,7 @@ __A11__: No. None of us have to set foot in Italy for any of this. The rule actu
 
 ## Eligibility
 Who's eligible to join the Italian citizenship party? i.e. who of us is actually an Italian citizen now, but just doesn't have the paperwork (e.g. passport) to prove it?
-- all descendants of our [Key ancestor](/README.md#Key_ancestor) __except__ those who descended through Auntie Flo (because this line was broken by Noni's naturalization  to become a US citizen)
+- all descendants of our [Key ancestor](/README.md#Key_ancestor) __except__ those who descended through Auntie Flo (because this line was broken by Noni's naturalization to become a US citizen)
 - any woman who married a man fitting the above criteria prior to 27 April 1983 [source](https://italiancitizenshipassistance.com/faq/#20)
 
 Further reading [here](http://getitaliancitizenship.com/qualify-for-italian-dual-citizenship/)  
@@ -54,7 +55,7 @@ Here is an outline of the process to obtain an Italian passport as I understand 
 
 _Preface_ -- Since our [Key ancestor](/README.md#Key_ancestor) passed on __her__ citizenship before [1948](/README.md#1948), we must win a court case in Italy before it makes any sense to submit our applications for recognition of our Italian citizenships to the Italian consulates where we live.  
 
-1. Hire an Italian law firm to file a lawsuit through the Civil Court in Rome to challenge the [1948](/README.md#1948) rule -- __0 Days__
+1. As a group, we hire an Italian law firm to file a lawsuit through the Civil Court in Rome to challenge the [1948](/README.md#1948) rule -- __0 Days__
 1. Law firm does a bunch of stuff for us, including -- __1.5-2 years__
     - collection of all required documentation proving our Italian citizenship
     - translation of said documentation into Italian
@@ -62,19 +63,21 @@ _Preface_ -- Since our [Key ancestor](/README.md#Key_ancestor) passed on __her__
     - taking the Italian govt. to civil court in Rome to argue on our behalf that we're Italian citizens
     - winning said lawsuit
 1. Law firm delivers each of us a "citizenship packet" -- __0 Days__
-1. Each of us goes to our local Italian consulate, pays them 300 EUR and signs up for an appointment to apply for our Italian citizenship to be recognized by Italy -- __0 Days__
+1. Each of us goes to the [Italian consulate that has jurisdiction over the county in which you legally reside](https://www.italiandualcitizenship.net/italian-consulate-locations/), pays them 300 EUR and signs up for an appointment to apply for our Italian citizenship to be recognized by Italy -- __0 Days__
 1. Wait for appointment at the Italian consulate -- __3-12 Months__ [source](https://italiancitizenshipassistance.com/faq/#15)
 1. Attend appointment with the Italian consulate and deliver them our "citizenship packet" of documentation to them -- __0 Days__
 1. Wait for the Italian consulate to process our application -- __2-6 Months__ [source](https://italiancitizenshipassistance.com/faq/#15)  
-1. Receive Italian passport in the mail -- __0 Days__
+1. Receive proof of Italian citizenship in the mail -- __0 Days__
+1. (optional) Go back to the consulate and show them your proof of your Italian citizenship, pay them $150 and they print and give you your Italian passport that day -- __0 Days__
 1. Profit -- __forever more__
 
 ## Professional services
 Here are some links to sites advertizing  help in obtaining Italian citizenship (in no order). These sites contain TONS of extra info. Many questions I haven't addressed here are answered in one or several of these.
-1. https://italiancitizenshipassistance.com <-- I'm dealing with them currently
-1. http://www.youritalianpassport.com
-1. http://getitaliancitizenship.com
-1. https://www.italymondo.com <-- seems like the most expensive, but seems to offer many "above and beyond" perks
+1. [https://italiancitizenshipassistance.com](https://italiancitizenshipassistance.com) <-- I'm dealing with them currently
+1. [http://www.youritalianpassport.com](http://www.youritalianpassport.com)
+1. [http://getitaliancitizenship.com](http://www.youritalianpassport.com)
+1. [www.italiandualcitizenship.net](www.italiandualcitizenship.net)
+1. [https://www.italymondo.com](https://www.italymondo.com) <-- seems like the most expensive, but seems to offer many "above and beyond" perks
 
 ## 1948
 Watch this [two minute youtube video](https://youtu.be/3qUm5CujE2w)  
@@ -86,19 +89,22 @@ Recently a trial case challenged the above situations as discriminatory and unju
 Further reading [here](http://getitaliancitizenship.com/italian-dual-citizenship-what-is-a-1948-case/)
 
 ## Cost
-Everything is in Euros here (except where you see $).
+Everything is in Euros here (except where you see $). Here are the components of the total cost:
 
-€6,500 - hiring the law firm to win the [1948](/README.md#1948) court case (in Rome) and to provide complete "citizenship packets" for three immediate fmaily members  
-€200 for each additional immediate family member's complete "citizenship packets"  
-€300 for each additional non-immediate family member's complete "citizenship packets"  
-children (under 18) of anyone here seem to be automatically included for free
+A) €6,500 - hiring the law firm to win the [1948](/README.md#1948) court case (in Rome) and to provide complete "citizenship packets" for three immediate fmaily members  
+B) €200 - the law firm to produce one additional immediate family member's complete "citizenship packet"  
+C) €300 - the law firm to produce one additional non-immediate family member's complete "citizenship packet"  
+  children (under 18) of anyone here seem to be automatically included for free  
+D) €1,686 - variable costs charged by the law firm, they've told me it is very unlilkely to be more than this
+E) €300 - the fee for submitting one's "citizenship packet" to their local Italian consulate, this gets you a document that proves your italian citizenship  
+F) $150 the cost of an Italian passport
 
 "immediate fmaily member":  siblings, parents or adult children (of the person the law firm is dealing with)  
 "citizenship packet": all the documentation an Italian consulate needs to recognize our citizenship and issue us a passport  
 
-The above is payable to the Italian/American law firm and will be returned if our applications fail. The Italian consulate takes €300 for each application which is non-refundable. I think children (under 18) are included on their parents applications here so I won't count them as needing to apply.
+I estimate that A, B, and C will total €9,600 (depending on how many of us are in). It's payable in four installments to the Italian law firm we hire and will be retuned if the Italian consulate rejects our paperwork. I assume D will be charged at the end. The Italian consulate will charge €300 for each application for recognition of citizenship which is non-refundable. It will charge $150 for each passport issued (of course that's an optional expense). I think children (under 18) are included on their parents applications here so I won't count them as needing to apply (though I believe their passports will cost still be $150 each if you'd like one for them now).
 
-I count 19 of us who could possibly apply. That's including zero from Uncle Bill's side. If everyone was in, the total cost of the law firm would be €6,500 + 6x€200 + 10x€300 = €10,700. And if we were to split that equally, we'd each owe €563.16. And after the application fee to our Italian consulates, that would come to €863.16 ~= $969.00 each. If 17 of the 19 of us go in, we'd be at $1,010.38 each. If only three of us are in, that would come to $2,769.67 each.
+If everyone was in (say 17 of us), the total cost of the law firm would be €6,500 + 5x€200 + 9x€300 + €1,686 = €11,886. Then if we were to split that equally, we'd each owe €699.18. And after the application fee to our Italian consulates, that would come to €999.18 ~= __$1,120.27__ out of pocket cost for each of us (non-minors). Then it's $150 for each passport you'd like.
 
 ## Key ancestor
 ![lucy](/media/lucy_zoom.jpeg)  
