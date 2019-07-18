@@ -3,6 +3,7 @@ My personal notes on recognizing my jure sanguinis Italian citizenship [source](
 
 ## FAQs
 I encourage you to visit [this site](https://italiancitizenshipassistance.com/faq) which has many more FAQs than I have listed here.  
+
 __Q1__: Will I be drafted into the Italian military?  
 __A1__: Since 1995, the Italian military has been a strictly volunteer service. Should that change however, you will not be exempt from mandatory service if you otherwise meet the requirements. [source](http://www.youritalianpassport.com/consular-experience.html)  
 
