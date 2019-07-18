@@ -24,9 +24,9 @@ __Q6__: What are my obligations as an Italian citizen residing abroad?
 __A6__:  Italian citizens who reside outside of Italy for more than 12 months, are required to register with the AIRE registry. AIRE is the acronym for “Anagrafe degli Italiani Residenti all’Estero”, (Registry of Italians Residing Abroad), and it is a registry jointly held by the local Italian Consulate and the municipality of last residency in Italy (for Italian citizens by descent, the municipality of birth of the Italian ancestor). This registration is necessary to be able to access the consular services, including the issuance of an Italian passport and the registration in Italy of vital record documents issued in the foreign country. The registration in the AIRE registry is also necessary to vote in the Italian elections while living abroad. [source](https://italiancitizenshipassistance.com/faq/#5)  
 
 __Q7__: What are the benefits of having Italian/EU citizenship?  
-__A7__: Comprehensive, affordable health care, excellent and affordable university-level education (throughout Europe) [source](http://www.youritalianpassport.com/)  
-__A7__: Pass Italian citizenship to your offspring (and of course allow them to pass it on to their offspring as well) [source](http://www.youritalianpassport.com/)  
-__A7__: You will be able to transfer Italian citizenship to all children under 18 years old automatically [source](https://italiancitizenshipassistance.com/benefits-of-italian-dual-citizenship/)  
+__A7__: Access to the European public welfare system: Comprehensive, affordable health care, excellent and affordable university-level education[source](http://www.youritalianpassport.com/)  
+__A7__: Pass Italian citizenship to your offspring (which allows them to pass it on to their offspring as well, and so on forever!). This means you'd be giving Italian citizenship to everyone who descends from you forever! [source](http://www.youritalianpassport.com/)  
+__A7__: You will be able to transfer Italian citizenship to all you children under 18 years old for free [source](https://italiancitizenshipassistance.com/benefits-of-italian-dual-citizenship/)  
 __A7__: Reside, retire, and travel freely within any of the 27 countries of the European Union [source](http://www.youritalianpassport.com/)  
 __A7__: [Further reading](https://italiancitizenshipassistance.com/benefits-of-italian-dual-citizenship/), [further reading](http://getitaliancitizenship.com/why-get-italian-dual-citizenship/), [further reading](http://www.youritalianpassport.com/)
 
